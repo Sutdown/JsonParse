@@ -1,0 +1,26 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "is_student": false,
+    "grades": [
+        88,
+        92,
+        79
+    ],
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip_code": "12345"
+    },
+    "configurations": [
+        {
+            "key": "theme",
+            "value": "dark"
+        },
+        {
+            "key": "notifications",
+            "value": true
+        }
+    ]
+}
